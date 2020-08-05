@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my repos 👋
 
 <!--
 **ahmadmazen/ahmadmazen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <a href="https://twitter.com/ahmadmazen"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="linkedin.com/in/ahmed-r-mazen"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  </p>
