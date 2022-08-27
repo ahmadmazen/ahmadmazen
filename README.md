@@ -20,5 +20,5 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/ahmadmazen"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 <p >
-🔭 I’m currently working on this <a href="https://github.com/ahmadmazen/leetCode75">repo</a>
+🔭 I’m currently working on this <a href="https://github.com/ahmadmazen/NeetCode150">repo</a>
 </p>
